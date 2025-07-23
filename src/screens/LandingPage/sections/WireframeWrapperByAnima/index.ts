@@ -1,0 +1,1 @@
+export { WireframeWrapperByAnima } from "./WireframeWrapperByAnima";

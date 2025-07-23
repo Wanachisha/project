@@ -1,0 +1,1 @@
+export { PopularCategoriesByAnima } from "./PopularCategoriesByAnima";

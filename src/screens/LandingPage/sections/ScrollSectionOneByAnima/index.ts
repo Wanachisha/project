@@ -1,0 +1,1 @@
+export { ScrollSectionOneByAnima } from "./ScrollSectionOneByAnima";
